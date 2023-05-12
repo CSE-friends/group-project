@@ -1,0 +1,859 @@
+
+<!DOCTYPE html>
+<html lang="en"><head>
+
+    
+<base href="https://www.du.ac.in/" />
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TCTDP8W');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L4SCCDN38V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L4SCCDN38V');
+</script>
+<!-- Hotjar Tracking Code for du.ac.in -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2186781,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<meta name="Generator" content="CMS Made Simple - Copyright (C) 2004-2020. All rights reserved." />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="msapplication-TileColor" content="#652b7c">
+    <meta name="theme-color" content="#652b7c">
+    <title> Academic Calendar - Delhi University</title>
+
+    <!-- Fonts -->
+    <link rel="icon" href="uploads/du/images/favicon/favicon-16x16.png" type="image/gif" sizes="16x16">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    <!-- <script src="https://kit.fontawesome.com/63ca0d7bb8.js" crossorigin="anonymous"></script> -->
+    <!--load all Fontawesome styles -->
+    <link href="uploads/du/fonts/fontawesome/css/all.css" rel="stylesheet">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="uploads/du/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Style CSS -->
+
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.du.ac.in/tmp/cache/stylesheet_combined_24b16d5ccd0ddbf8fd6a4782314dec2b.css" />
+<link rel="stylesheet" type="text/css" href="https://www.du.ac.in/tmp/cache/stylesheet_combined_376f680b38a84fa1c391401f2d98b5d3.css" media="screen" />
+
+</head><body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TCTDP8W"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Navigation Menu -->
+
+<!-- Level 1 -->
+
+<div class="container-fluid">
+    <!-- site-header -->
+
+    <div class="container-fluid">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light oie" style="padding: 20px; justify-content: center;">
+    <a href="http://ioe.du.ac.in/" target="_blank"> Institution of Eminence</a>
+    <button class="navbar-toggler nav-gigw" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse top-right" id="navbarSupportedContent">
+        <li><a href="http://www.du.ac.in/hi/" target="_blank">हिंदी</a></li>
+        <li><a href="index.php">English</a></li>
+        <li><a href="">-A A A+</a></li>
+<li> <a href ="index.php?page=du-kulgeet">डीयू कुलगीत</a></li>
+<!--<li> <a href ="https://www.du.ac.in/uploads/COVIDCARE/index.html" target="_blank"><span class="fas fa-link" style="opacity: 1;"></span>&nbsp;DU COVID CARE</a></li>-->
+
+<!--        
+<li> <a href ="oldweb.du.ac.in/uploads/COVID-19/" target="_blank"><span class="fas fa-link" style="opacity: 1;"></span>&nbsp;Admissions & Examinations 2020</a></li> -->
+
+        <!--<li><a href ="http://oldweb.du.ac.in" target="_blank"><span class="fas fa-link" style="opacity: 1;"></span>&nbsp;Old Website</a></li>-->
+<li><a href ="https://app.uod.ac.in/sgr" target="_blank"><span class="fas fa-link" style="opacity: 1;"></span>&nbsp;Student Grievance Redressal</a></li>
+        <li> <a href ="https://du.samarth.ac.in" target="_blank"><span class="fas fa-link" style="opacity: 1;"></span>&nbsp;Samarth@DU</a></li> 
+<li> <a href ="https://www.du.ac.in/index.php?page=university-of-delhi-foundation" target="_blank"><span class="fas fa-link" style="opacity: 1;"></span>&nbsp;Academic 
+  Calender</a></li>    
+     <li> <a href ="index.php?page=udhmodya-foundation" target="_blank"><span class="fas fa-link" style="opacity: 1;"></span>&nbsp; Foundation</a></li>
+
+        <li><a href="index.php">Home&nbsp;<span class="fas fa-home" style="opacity: 1;"></span></a></li>
+    </div>
+</nav>
+
+</div>
+
+<div class="row spacer-16 sides-60">
+    <div class="col-lg-3 my-auto">
+        <div class="float-left du-logo-head">
+            <a href="index.php"> <img src="uploads/du/images/logo-du-1.png" width="400px" class="margin-responsive-logo"> </a>
+        </div>
+    </div>
+    <div class="col-lg-9 my-auto">
+        <div class="float-right search-tab-top">
+
+            <div class="form-group">
+             <form id="m3ed3dmoduleform_1" method="get" action="https://www.du.ac.in/index.php?page=news-details" class="cms_form">
+<div class="hidden">
+<input type="hidden" name="mact" value="Search,m3ed3d,dosearch,0" />
+<input type="hidden" name="m3ed3dreturnid" value="219" />
+</div>
+
+
+<input type="text" class="search form-control search-box" id="m3ed3dsearchinput" name="m3ed3dsearchinput" placeholder="Enter your Query"/>
+
+<input class="search form-control search-mob" value="Search" type="submit" id="focus-auto"/>
+<input type="hidden" id="m3ed3dorigreturnid" name="m3ed3dorigreturnid" value="76" />
+</form>
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+    <!-- end site-header -->
+<!-- Level 2 -->
+<div class="container-fluid bg-purple">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <svg class="ham hamRotate ham1" viewBox="0 0 100 100" width="40" onclick="this.classList.toggle('active')">
+                <path
+                        class="line top"
+                        d="m 30,33 h 40 c 0,0 9.044436,-0.654587 9.044436,-8.508902 0,-7.854315 -8.024349,-11.958003 -14.89975,-10.85914 -6.875401,1.098863 -13.637059,4.171617 -13.637059,16.368042 v 40" />
+                <path
+                        class="line middle"
+                        d="m 30,50 h 40" />
+                <path
+                        class="line bottom"
+                        d="m 30,67 h 40 c 12.796276,0 15.357889,-11.717785 15.357889,-26.851538 0,-15.133752 -4.786586,-27.274118 -16.667516,-27.274118 -11.88093,0 -18.499247,6.994427 -18.435284,17.125656 l 0.252538,40" />
+            </svg></span><span class="ma-gigw-text-menu">Menu</span>
+        </button>
+        <div class="ma_gigw">
+                    <span class="navbar-text" style="margin-left: 70px;">
+                                <a data-toggle="collapse" href="" data-contentDiv="ducolleges" role="button" aria-expanded="false" aria-controls="ducolleges" title="Click to Open/Close" class="collapsed">Colleges <span class="fa fa-angle-down"></span></a>
+
+                            </span>
+            <span class="navbar-text">
+                                <a data-toggle="collapse" href="" data-contentDiv="dudepartment" role="button" aria-expanded="false" aria-controls="dudepartment" title="Click to Open/Close" class="collapsed">Departments<span class="fa fa-angle-down"></span></a>
+                            </span>
+            <!--            <span class="navbar-text">-->
+            <!--                        <a data-toggle="collapse" href="#importantlinks" role="button" aria-expanded="false" aria-controls="importantlinks" title="Click to Open/Close" class="collapsed">Important Links <span class="fa fa-angle-down"></span></a>-->
+            <!--                    </span>-->
+
+        </div>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav mr-auto sibling-fade"><li class="nav-item nav-item active"><a class="nav-link " href="index.php">Home</a></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>About DU</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=about-du-2'>About DU</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Vision-and-Mission'>Vision and Mission</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=vcs-messages-videos'>VC&#39;s Messages &amp; Videos</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=DU-Ranking'>DU Ranking</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Social-Outreach'>Social Outreach</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=DU-NIRF'>DU-NIRF</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=du-naac'>DU - NAAC</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=DU-e-Journals-2'>DU e-Journals</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=University-Handbooks-2'>University Handbooks</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Annual-Reports'>Annual Reports</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=du-calendar'>University Calendar</a><a class='dropdown-item' href='https://glimpses.du.ac.in/'>DU Gallery</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=du-memoir'>DU Memoir</a></div></li><li class='nav-item nav-item active dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Academics</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=faculties'>Faculties</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=departments-2'>Departments</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=centersinstitutes'>Centers/Institutes</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=campus-of-open-learning'>Campus of Open Learning</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=colleges-at-du'>Colleges</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=syllabi'>Courses</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=delhi-school-of-economics'>Delhi School of Economics</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=international-relations'>International Relations</a><a class='dropdown-item' href='http://fsr.du.ac.in/'>International Students</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=virtual-learning'>Virtual Learning</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=non-collegiate-womens-education-board'>Non-Collegiate Women&#39;s Education Board</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=academic-calendar'>Academic Calendar</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=adjunct-faculty-members'>Adjunct Faculty Members</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Syllabi</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=nep-ugcf-2022-syllabi'>NEP: UGCF 2022 Syllabi</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=revised-syllabi-2019-2020'>Revised-syllabi 2019-2020</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=under-graduate'>Under-Graduate</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=post-graduate'>Post-Graduate</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=ph.d.'>Ph.D.</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=m.phil.'>M.Phil.</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=other-courses'>Other Courses</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Research</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=research-council'>Research Council</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=research-profile'>Research Profile</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=institutional-human-ethics-committee'>Institutional Human Ethics Committee</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=intellectual-property-rights'>Intellectual Property Rights</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=prevention-of-plagiarism-shodhganga-thesis-repository'>Prevention of Plagiarism &amp; Shodhganga - Thesis Repository</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=research-ordinances-and-gazette-notification'>Research Ordinances and Gazette Notification</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=research-journals'>JRF to SRF link for online proforma</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=research-opportunities'>Research Opportunities</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=technology-transfer'>Technology Transfer</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=dudst-purse-grants'>DU/DST Purse Grants</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=awards-and-honours'>Awards and Honours</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=major-areas-of-research'>Major Areas of Research</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=vice-chancellor-student-fund'>Ph.D. extension online portal link</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=academic-integrity-and-ethical-guidelines'>Academic Integrity and Ethical Guidelines</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=guidelines-for-sponsored-research-projects-and-consultancy'>Guidelines for Sponsored Research Projects and Consultancy</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=guidelines-for-online-thesis-submission-during-covid-19'>Guidelines for online thesis submission during COVID-19</a><a class='dropdown-item' href='http://du.ac.in/uploads/new-web/09082021_PMRF-guidelines.pdf'>PMRF Guidelines</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Libraries</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=du-library-system'>DU Library System</a><a class='dropdown-item' href='https://duelibrary.in/#/home'>DU eLibrary</a><a class='dropdown-item' href='https://jgateplus.com/'>Search for Articles</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=e-resources-a-z'>e-Resources (A-Z)</a><a class='dropdown-item' href='http://crl.du.ac.in/subjectportal/'>Subject-wise e-Resources</a><a class='dropdown-item' href='http://crl.du.ac.in/ot/tutorial.html'>Information Literacy</a><a class='dropdown-item' href='http://eb.du.ac.in'>E-Books</a><a class='dropdown-item' href='https://du.irins.org/'>Research Information Management System</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Amenities</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Centre-for-Professional-Development-in-Higher-Education'>Centre for Professional Development in Higher Education</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Central-Placement'>Central Placement</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Computer-Centre'>Computer Centre</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Conference-Centre'>Conference Centre</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Delhi-University-Women-Association-DUWA'>Delhi University Women&#39;s Association (DUWA)</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Directorate-of-Hindi-Medium-Implementation'>Directorate of Hindi Medium Implementation</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Engineering-Office'>Engineering Office</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Foreign-Students-Registry-2'>Foreign Students&#39; Registry</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Gandhi-Bhawan'>Gandhi Bhawan</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Health-Centre'>Health Centre</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Hostels-at-University-of-Delhi'>Hostels</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=International-Guest-House'>International Guest House</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Rajbhasha-Cell'>Rajbhasha Cell</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=University-Guest-House'>University Guest House</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=University-Press'>University Press</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=University-Radio'>University Radio (DUCR 90.4)</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=University-Science-Instrumentation-Centre-USIC'>University Science Instrumentation Centre</a><a class='dropdown-item' href='https://dugardens.wixsite.com/universitygardens'>University Garden</a><a class='dropdown-item' href='http://wus.du.ac.in/'>World University Service (WUS) - DUC</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Alumni</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='http://alumni.du.ac.in/'>Alumni Website</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Administration</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=vice-chancellor'>Vice Chancellor</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=dean-of-colleges'>Dean of Colleges</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=director-south-campus'>Director South Campus</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=director-campus-of-open-learning'>Director, Campus of Open Learning</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=treasurer'>Treasurer</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=proctor'>Proctor</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=registrar'>Registrar</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=copy-of-registrar'>Public Relations Officer</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=special-cell'>Special Cell</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=finance-officer'>Finance Officer</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=chief-vigilance-officer'>Chief Vigilance Officer</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=librarian'>Librarian</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=deans'>Deans</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=administrative-offices'>Administrative Offices</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=Committees'>Committees</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Campuses</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=north-campus'>North Campus</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=south-campus'>South Campus</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=east-campus'>East Campus</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=west-campus'>West Campus</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>Tenders</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=central-office-depttscentreshostels'>Central Office Deptts/Centres/Hostels</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=colleges-3'>Colleges</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=engineering-department'>Engineering Department</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=general-branch'>General Branch</a></div></li><li class='nav-item dropdown'><a class='nav-link dropdown-toggle' href='javascript:void(0)'>News &amp; Events</a><div class="dropdown-menu animate slideIn" aria-labelledby="navbarDropdown" style="margin-top: 0px;"><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=news'>News</a><a class='dropdown-item' href='https://www.du.ac.in/index.php?page=events'>Events</a></div></li></ul>
+            <div class="text-gigw ma_mob">
+                <li></li>
+                <li><span class="fa fa-angle-right wa"></span><a href=" oldweb.du.ac.in/du/uploads/COVID-19/">Admissions & Examinations 2020</a></li>
+                <li><span class="fa fa-home wa"></span><a href="index.php">Home</a>&nbsp;&nbsp;&nbsp; <span class="fa fa-angle-right wa"></span><span class="wa" style="margin-left: 5px;"><a href="oldweb.du.ac.in/">Goto Old Website</a></span></li>
+                <li><a href="">-A A A+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="wa">English</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="opacity: 0.4;"><a href="www.du.ac.in/hi/"> Hindi</a></span></li>
+                <li><span style="margin-left: 70px;"> <span class="navbar-text">
+<a data-toggle="collapse" href="" data-contentDiv="importantlinks" role="button" aria-expanded="false" aria-controls="importantlinks" title="Click to Open/Close" class="collapsed">Important Links <span class="fa fa-angle-down"></span></a>
+</span></span></li>
+            </div>
+        </div>
+
+<div class="sibling-fade ma_gignw">
+                <span class="navbar-text">
+                        <a data-toggle="collapse" href="" data-contentDiv="ducolleges" role="button" aria-expanded="false" aria-controls="ducolleges" title="Click to Open/Close" class="collapsed">Colleges <span class="fa fa-angle-down"></span></a>
+                    </span>&nbsp;&nbsp;&nbsp;&nbsp;
+    <span class="navbar-text">
+                        <a data-toggle="collapse" href="" data-contentDiv="dudepartment" role="button" aria-expanded="false" aria-controls="dudepartment" title="Click to Open/Close" class="collapsed">Departments<span class="fa fa-angle-down"></span></a>
+                    </span>&nbsp;&nbsp;&nbsp;&nbsp;
+    <span class="navbar-text">
+                        <a data-toggle="collapse" href="" data-contentDiv="importantlinks" role="button" aria-expanded="false" aria-controls="importantlinks" title="Click to Open/Close" class="collapsed">Important Links <span class="fa fa-angle-down"></span></a>
+                    </span>
+</div>
+
+
+
+    </nav>
+</div>
+
+<div class="container-fluid toggle_div collapse" id="ducolleges">
+<div class="row sides-72 spacer-40">
+                <div class="col-lg-4 imp-pad animate2 slideIn2">
+                    <h5>A</h5>
+                    <div class="spacer-16">
+                        <a href="http://andcollege.du.ac.in/" target="_blank">Acharya Narendra Dev College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://aditi.du.ac.in/" target="_blank">Aditi Mahavidyalaya&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://aryabhattacollege.ac.in/" target="_blank">Aryabhatta College(Formally Ram Lal Anand College-Evg.)&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://arsdcollege.ac.in/" target="_blank">Atma Ram Sanatan Dharma College&nbsp;<span class="fa fa-link"></span></a><br>
+<br>
+                    </div>
+                </div>
+                   <div class="col-lg-4 imp-pad animate2 slideIn2">
+                    <h5>B</h5>
+                    <div class="spacer-16">
+                       <a href="https://bhagininivedita.du.ac.in/" target="_blank">Bhagini Nivedita College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://www.bharaticollege.du.ac.in/" target="_blank">Bharati College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.bcas.du.ac.in/" target="_blank">Bhaskaracharya College of Applied Sciences&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.drbrambedkarcollege.ac.in/" target="_blank">Bhim Rao Ambedkar College&nbsp;<span class="fa fa-link"></span></a><br>
+                    </div>
+                </div>
+                    <div class="col-lg-4 imp-pad animate2 slideIn2">
+                    <h5>C</h5>
+                    <div class="spacer-16">
+                       <a href="http://colart.delhigovt.nic.in/wps/wcm/connect/Lib_Collegeofart/collegeofarts/home" target="_blank">College of Art&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.cvs.edu.in/" target="_blank">College of Vocational Studies&nbsp;<span class="fa fa-link"></span></a><br>
+                    </div>
+                </div>
+
+                  <div class="col-lg-4 imp-pad animate2 slideIn2">
+                    <h5>D</h5>
+                    <div class="spacer-16">
+                        <a href="http://www.dr.du.ac.in/" target="_blank">Daulat Ram College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://dcac.du.ac.in/" target="_blank">Delhi College of Arts &amp; Commerce&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.deshbandhucollege.ac.in/" target="_blank">Deshbandhu College(Morning)&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://dducollegedu.ac.in/" target="_blank">Deen Dayal Upadhyaya College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.durgabaideshmukhcollege.org/" target="_blank">Durga Bai Deshmukh College of Special Edu.(VI)&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.dsc.du.ac.in/" target="_blank">Dyal Singh College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.dsce.du.ac.in/" target="_blank">Dyal Singh College (Evening)&nbsp;<span class="fa fa-link"></span></a><br>
+                    </div>
+<h5>G</h5>
+                      <div class="spacer-16">
+                          <a href="http://gargi.du.ac.in/" target="_blank">Gargi College&nbsp;<span class="fa fa-link"></span></a><br>
+                      </div>
+                </div>
+
+                  <div class="col-lg-4 imp-pad animate2 slideIn2">
+                   <!-- <h5>F</h5>
+                    <div class="spacer-16">
+
+                    </div>-->
+                      
+                      <h5>H</h5>
+                      <div class="spacer-16">
+                          <a href="http://www.hansrajcollege.ac.in/" target="_blank">Hans Raj College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="http://www.hinducollege.ac.in/" target="_blank">Hindu College&nbsp;<span class="fa fa-link"></span></a><br>
+                                                
+                      </div>
+<h5>I</h5>
+                      <div class="spacer-16">
+                          <a href="http://igipess.du.ac.in" target="_blank">Indira Gandhi Institute of Physical Education &amp; Sports Sciences&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="www.ipcollege.ac.in/" target="_blank">Indraprastha College for Women&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="http://www.ihe-du.com/" target="_blank">Institute of Home Economics&nbsp;<span class="fa fa-link"></span></a><br>
+                      </div>
+<h5>J</h5>
+                      <div class="spacer-16">
+                          <a href="https://jdm.du.ac.in/" target="_blank">Janki Devi Memorial College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://www.jmc.ac.in/" target="_blank">Jesus &amp; Mary College&nbsp;<span class="fa fa-link"></span></a><br>
+                      </div>
+                </div>
+
+
+                  <div class="col-lg-4 imp-pad animate2 slideIn2">
+
+                      
+
+                      
+                      <h5>K</h5>
+                      <div class="spacer-16">
+                          <a href="https://www.kalindicollege.in/" target="_blank">Kalindi College for Women&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://www.knc.edu.in/" target="_blank">Kamla Nehru College for Women&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://keshav.du.ac.in/" target="_blank">Keshav Mahavidyalaya&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://kmc.du.ac.in/" target="_blank">Kirori Mal College&nbsp;<span class="fa fa-link"></span></a><br>
+                      </div>
+<h5>L</h5>
+                    <div class="spacer-16">
+
+<a href="https://ladyirwin.edu.in/" target="_blank">Lady Irwin College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://lsr.edu.in/" target="_blank">Lady Shri Ram College for Women&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://lakshmibaicollege.in/" target="_blank">Lakshmi Bai College for Women&nbsp;<span class="fa fa-link"></span></a><br>
+                    </div>
+                </div>
+
+                  <div class="col-lg-4 imp-pad animate2 slideIn2">
+                    
+
+                      <h5>M</h5>
+                      <div class="spacer-16">
+                          <a href="https://mac.du.ac.in/" target="_blank">Maharaja Agarsen College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://www.mvce.ac.in/" target="_blank">Maharshi Valmiki College of Education&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="http://maitreyi.ac.in/" target="_blank">Maitreyi College for Women&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://mscw.ac.in/" target="_blank">Mata Sundri College for Women&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://www.mirandahouse.ac.in/" target="_blank">Miranda House&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="http://www.mlncdu.ac.in/" target="_blank">Moti Lal Nehru College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="http://www.mlnce.org/" target="_blank">Moti Lal Nehru College (Evening)&nbsp;<span class="fa fa-link"></span></a><br>
+                      </div>
+ <h5>P</h5>
+                      <div class="spacer-16">
+                          <a href="https://www.pgdavcollege.in//" target="_blank">P.G.D.A.V. College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://pgdavevecollege.in/" target="_blank">P.G.D.A.V. College (Evening)&nbsp;<span class="fa fa-link"></span></a><br>
+                          
+                      </div>
+                      <h5>R</h5>
+                      <div class="spacer-16">
+                          <a href="http://www.rajdhanicollege.ac.in/" target="_blank">Rajdhani College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="http://rakcon.com/" target="_blank">Rajkumari Amrit Kaur College of Nursing&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://rlacollege.edu.in/" target="_blank">Ram Lal Anand College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://ramanujancollege.ac.in/" target="_blank">Ramanujan College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="http://ramjas.du.ac.in/" target="_blank">Ramjas College&nbsp;<span class="fa fa-link"></span></a><br>
+                      </div>
+                     <!-- <h5>U</h5>
+                      <div class="spacer-16">
+                         
+                      </div>-->
+                </div>
+                 <!--
+                  <div class="col-lg-4 imp-pad animate2 slideIn2">
+                   <h5>N</h5>
+                    <div class="spacer-16">
+
+                    </div>
+                     
+                </div>-->
+
+                  <div class="col-lg-4 imp-pad animate2 slideIn2">
+                    <h5>S</h5>
+                    <div class="spacer-16">
+<a href="http://satyawati.du.ac.in/" target="_blank">Satyawati College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://satyawatievedu.ac.in/" target="_blank">Satyawati College (Evening)&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://sol.du.ac.in" target="_blank">School of Open Learning ( Erstwhile School of Correspondence &amp; Continuing Education)&nbsp;<span class="fa fa-link"></span></a><br>
+
+<a href="http://www.sbsc.in/" target="_blank">Shaheed Bhagat Singh College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.sbsec.org/" target="_blank">Shaheed Bhagat Singh College (Evening)&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.rajgurucollege.com/" target="_blank">Shaheed Rajguru College of Applied Sciences for Women&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://sscbs.du.ac.in/" target="_blank">Shaheed Sukhdev College of Business Studies&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.shivajicollege.ac.in/" target="_blank">Shivaji College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.srcc.edu/" target="_blank">Shri Ram College of Commerce&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.slc.du.ac.in/" target="_blank">Shyam Lal College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://shyamlale.du.ac.in/" target="_blank">Shyam Lal College (Evening)&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://spm.du.ac.in/index.php?lang=en" target="_blank">Shyama Prasad Mukherji College for Women&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.aurobindo.du.ac.in/" target="_blank">Sri Aurobindo College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://www.aurobindoe.du.ac.in/" target="_blank">Sri Aurobindo College (Evening)&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.sggscc.ac.in/" target="_blank">Sri Guru Gobind Singh College of Commerce&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://sgndkc.org/" target="_blank">Sri Guru Nanak Dev Khalsa College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://sgtbkhalsadu.ac.in/" target="_blank">Sri Guru Tegh Bahadur Khalsa College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.svc.ac.in/" target="_blank">Sri Venkateswara College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://www.ststephens.edu/" target="_blank">St. Stephen's College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://ss.du.ac.in/" target="_blank">Swami Shraddhanand College&nbsp;<span class="fa fa-link"></span></a><br>
+                    </div>
+                </div>
+
+                  <div class="col-lg-4 imp-pad animate2 slideIn2">
+                      <h5>V</h5>
+                      <div class="spacer-16">
+
+                          <a href="https://www.vivekanandacollege.edu.in/" target="_blank">Vivekananda College&nbsp;<span class="fa fa-link"></span></a></br>
+                      </div>
+                      <h5>Z</h5>
+                      <div class="spacer-16">
+                          <a href="http://www.zakirhusaindelhicollege.ac.in/" target="_blank">Zakir Husain Delhi College&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="https://zhdce.ac.in/default.aspx" target="_blank">Zakir Husain Post Graduate Evening College&nbsp;<span class="fa fa-link"></span></a></br>
+
+                      </div>
+                </div>
+
+
+                  <div class="col-lg-4 imp-pad animate2 slideIn2">
+                    <h5>Other Institutions</h5>
+                    <div class="spacer-16">
+<a href="http://www.abconlnhdu.com/" target="_blank">Ahilya Bai College of Nursing&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.ajipt.org/" target="_blank">Amar Jyoti Institute of Physiotherapy&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://autch.delhi.gov.in/" target="_blank">Ayurvedic &amp; Unani Tibia College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.cnbchospital.in/" target="_blank">Chacha Nehru Bal Chikitsalaya&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.acn.co.in/" target="_blank">College of Nursing at Army Hospital (R&amp;R)&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.dipsar.ac.in/" target="_blank">Delhi Institute of Pharmaceutical Sciences and Research&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.collegeofnursinggtbh.in/" target="_blank">Florence Nightingale College of Nursing&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.hfcondelhi.edu.in/" target="_blank">Holy Family College of Nursing&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://fmsc.ac.in/lady.htm" target="_blank">Lady Hardinge Medical College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.maids.ac.in/" target="_blank">Maulana Azad Institute of Dental Sciences&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.mamc.ac.in/" target="_blank">Maulana Azad Medical College&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://nhmc.delhigovt.nic.in/" target="_blank">Nehru Homeopathic Medical College &amp; Hospital&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.nsit.ac.in/" target="_blank">Netaji Subhash Institute of Technology&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.nihfw.org/" target="_blank">National Institute of Health &amp; Family Welfare&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://iphnewdelhi.in/Home.aspx?ReturnUrl=%2f" target="_blank">Pt. Deendayal Upadhyaya Institute of Physically Handicapped&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://rakcon.com/" target="_blank">Rajkumari Amrit Kaur College of Nursing&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://www.nhp.gov.in/hospital/kasturba-gandhi-hospital-central-delhi" target="_blank">Kasturba Hospital&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://www.ihbas.delhigovt.nic.in/" target="_blank">Institute of Human Behaviour &amp; Allied Sciences&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="http://gbpant.delhigovt.nic.in/" target="_blank">G.B. Pant Hospital&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="https://aiia.gov.in/" target="_blank">All India Institute of Ayurveda&nbsp;<span class="fa fa-link"></span></a><br>
+<a href="#">School of Rehabilitation Sciences&nbsp;<span class="fa fa-link"></span></a><br>
+ <a href="https://ucms.ac.in/" target="_blank">University College of Medical Sciences&nbsp;<span class="fa fa-link"></span></a><br>
+                          <a href="http://www.vpci.org.in/" target="_blank">Vallabhbhai Patel Chest Institute&nbsp;<span class="fa fa-link"></span></a></br>
+                    </div>
+                </div>
+
+
+                </div>
+                <span class="divider imp-pad"></span>
+            </div>
+</div>
+
+<div class="container-fluid toggle_div collapse" id="dudepartment">
+
+<div class="row sides-72 spacer-40">
+<div class="col-lg-4 imp-pad animate2 slideIn2">
+<h5>Faculty of Applied Social Sciences and Humanities</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-finance-and-business-economics" target="_blank" rel="noopener">Department of Finance and Business Economics</a></div>
+<h5>Faculty of Commerce &amp; Business Studies</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-commerce" target="_blank" rel="noopener">Department of Commerce</a></div>
+<h5>Faculty of Education</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-education" target="_blank" rel="noopener">Department of Education</a></div>
+<h5>Faculty of Law</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-law" target="_blank" rel="noopener">Department of Law</a></div>
+</div>
+<div class="col-lg-4 imp-pad animate2 slideIn2">
+<h5>Faculty of Arts</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-arabic" target="_blank" rel="noopener">Department of Arabic</a><br /> <a href="index.php?page=department-of-buddhist-studies" target="_blank" rel="noopener">Department of Buddhist Studies</a><br /> <a href="index.php?page=department-of-germanic-romance-studies" target="_blank" rel="noopener">Department of Germanic &amp; Romance Studies</a><br /> <a href="index.php?page=department-of-hindi" target="_blank" rel="noopener">Department of Hindi</a><br /> <a href="index.php?page=department-of-library-information-science" target="_blank" rel="noopener">Department of Library &amp; Information Science</a><br /> <a href="index.php?page=department-of-linguistics" target="_blank" rel="noopener">Department of Linguistics</a><br /> <a href="index.php?page=department-of-modern-indian-languages-and-literary-studies" target="_blank" rel="noopener">Department of Modern Indian Languages and Literary Studies</a><br /> <a href="index.php?page=department-of-persian" target="_blank" rel="noopener">Department of Persian</a><br /> <a href="index.php?page=department-of-philosophy" target="_blank" rel="noopener">Department of Philosophy</a><br /> <a href="index.php?page=department-of-psychology" target="_blank" rel="noopener">Department of Psychology</a><br /> <a href="index.php?page=department-of-punjabi" target="_blank" rel="noopener">Department of Punjabi</a><br /> <a href="index.php?page=department-of-sanskrit" target="_blank" rel="noopener">Department of Sanskrit</a><br /> <a href="index.php?page=department-of-slavonic-finno-ugrian-studies" target="_blank" rel="noopener">Department of Slavonic &amp; Finno-Ugrian Studies</a><br /> <a href="index.php?page=department-of-urdu" target="_blank" rel="noopener">Department of Urdu</a><br /> <a href="index.php?page=department-of-english" target="_blank" rel="noopener">Department of English </a></div>
+</div>
+<div class="col-lg-4 imp-pad animate2 slideIn2">
+<h5>Faculty of Interdisciplinary &amp; Applied Sciences</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-biochemistry" target="_blank" rel="noopener">Department of Biochemistry</a><br /> <a href="index.php?page=department-of-biophysics" target="_blank" rel="noopener">Department of Biophysics</a><br /> <a href="index.php?page=department-of-electronic-science" target="_blank" rel="noopener">Department of Electronic Science</a><br /> <a href="index.php?page=department-of-genetics" target="_blank" rel="noopener">Department of Genetics</a><br /> <a href="index.php?page=department-of-microbiology" target="_blank" rel="noopener">Department of Microbiology</a><br /> <a href="index.php?page=department-of-physical-education-sports-sciences" target="_blank" rel="noopener">Department of Physical Education &amp; Sports Sciences</a><br /> <a href="index.php?page=department-of-plant-molecular-biology" target="_blank" rel="noopener">Department of Plant Molecular Biology</a></div>
+<h5>Faculty of Music</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-music" target="_blank" rel="noopener">Department of Music</a><br /> <a href="index.php?page=department-of-fine-arts" target="_blank" rel="noopener">Department of Fine Arts</a></div>
+</div>
+<div class="col-lg-4 imp-pad animate2 slideIn2">
+<h5>Faculty of Management Studies</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-business-management-industrial-administration" target="_blank" rel="noopener">Department of Business Management &amp; Industrial Administration</a></div>
+<br />
+<h5>Faculty of Science</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-anthropology" target="_blank" rel="noopener">Department of Anthropology</a><br /> <a href="index.php?page=department-of-botany" target="_blank" rel="noopener">Department of Botany</a><br /> <a href="index.php?page=department-of-chemistry" target="_blank" rel="noopener">Department of Chemistry</a><br /> <a href="index.php?page=department-of-environmental-studies" target="_blank" rel="noopener">Department of Environmental Studies</a><br /> <a href="index.php?page=department-of-geology" target="_blank" rel="noopener">Department of Geology</a><br /> <a href="index.php?page=department-of-home-science" target="_blank" rel="noopener">Department of Home Science</a><br /> <a href="index.php?page=department-of-nursing" target="_blank" rel="noopener">Department of Nursing</a><br /> <a href="index.php?page=department-of-pharmacy" target="_blank" rel="noopener">Department of Pharmacy</a><br /> <a href="index.php?page=department-of-physics-astrophysics" target="_blank" rel="noopener">Department of Physics &amp; Astrophysics</a>
+<br /> <a href="index.php?page=department-of-zoology" target="_blank" rel="noopener">Department of Zoology</a>
+</div>
+<br />
+<h5>Faculty of Technology</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-applied-sciences-humanities" target="_blank" rel="noopener">Department of Applied Sciences &amp; Humanities</a><br /> <a href="index.php?page=department-of-architecture-planning" target="_blank" rel="noopener">Department of Architecture &amp; Planning</a><br /> <a href="index.php?page=department-of-civil-engineering" target="_blank" rel="noopener">Department of Civil Engineering</a><br /> <a href="index.php?page=department-of-computer-engineering" target="_blank" rel="noopener">Department of Computer Engineering</a><br /> <a href="index.php?page=department-of-electrical-engineering" target="_blank" rel="noopener">Department of Electrical Engineering</a><br /> <a href="index.php?page=department-of-electronics-communication-engineering" target="_blank" rel="noopener">Department of Electronics &amp; Communication Engineering</a><br /> <a href="index.php?page=department-of-instrumentation-control-engineering" target="_blank" rel="noopener">Department of Instrumentation &amp; Control Engineering</a><br /> <a href="index.php?page=department-of-mechanical-engineering" target="_blank" rel="noopener">Department of Mechanical Engineering</a><br /> <a href="index.php?page=department-of-production-industrial-engineering" target="_blank" rel="noopener">Department of Production &amp; Industrial Engineering</a></div>
+</div>
+<div class="col-lg-4 imp-pad animate2 slideIn2">
+<h5>Faculty of Mathematical Sciences</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-computer-science" target="_blank" rel="noopener">Department of Computer Science</a><br /> <a href="index.php?page=department-of-mathematics" target="_blank" rel="noopener">Department of Mathematics</a><br /> <a href="index.php?page=department-of-operational-research" target="_blank" rel="noopener">Department of Operational Research</a><br /> <a href="index.php?page=department-of-statistics" target="_blank" rel="noopener">Department of Statistics</a></div>
+<h5>Faculty of Social Sciences</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-adult-continuing-education-extension" target="_blank" rel="noopener">Department of Adult, Continuing Education &amp; Extension</a><br /> <a href="index.php?page=department-of-african-studies"  target="_blank" rel="noopener">Department of African Studies</a><br /> <a href="index.php?page=delhi-school-of-journalism" target="_blank" rel="noopener">Delhi School of Journalism</a><br /> <a href="index.php?page=department-of-east-asian-studies" target="_blank" rel="noopener">Department of East Asian Studies</a><br /> <a href="index.php?page=department-of-economics" target="_blank" rel="noopener">Department of Economics</a><br /> <a href="index.php?page=department-of-geography" target="_blank" rel="noopener">Department of Geography</a><br /> <a href="index.php?page=department-of-history" target="_blank" rel="noopener">Department of History</a><br /> <a href="index.php?page=department-of-political-science" target="_blank" rel="noopener">Department of Political Science</a><br /> <a href="index.php?page=department-of-social-work" target="_blank" rel="noopener">Department of Social Work</a><br /> <a href="index.php?page=department-of-sociology" target="_blank" rel="noopener">Department of Sociology</a></div>
+<br />
+<h5>Faculty of Open Learning</h5>
+<div class="spacer-16"><a href="index.php?page=distance-continuing-education" target="_blank" rel="noopener">Distance &amp; Continuing Education</a></div>
+<br />
+<h5>Affiliated Faculties</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-ayurvedic-unani-medicine" target="_blank" rel="noopener">Department of Ayurvedic &amp; Unani Medicine</a><br /> <a href="index.php?page=department-of-homeopathic-medicine" target="_blank" rel="noopener">Department of Homeopathic Medicine</a></div>
+</div>
+<div class="col-lg-4 imp-pad animate2 slideIn2">
+<h5>Faculty of Medical Sciences</h5>
+<div class="spacer-16"><a href="index.php?page=department-of-anaesthesiology-critical-care" target="_blank" rel="noopener">Department of Anaesthesiology &amp; Critical Care</a><br /> <a href="index.php?page=department-of-anatomy" target="_blank" rel="noopener">Department of Anatomy</a><br /> <a href="index.php?page=department-of-medical-bio-chemistry" target="_blank" rel="noopener">Department of Medical Bio-Chemistry</a><br /> <a href="index.php?page=department-of-community-medicine" target="_blank" rel="noopener">Department of Community Medicine</a><br /> <a href="index.php?page=department-of-dermatology-venereology-leprosy" target="_blank" rel="noopener">Department of Dermatology, Venereology &amp; Leprosy</a><br /> <a href="index.php?page=department-of-dental-sciences" target="_blank" rel="noopener">Department of Dental Sciences</a><br /> <a href="index.php?page=department-of-forensic-medicine" target="_blank" rel="noopener">Department of Forensic Medicine</a><br /> <a href="index.php?page=department-of-obstetrics-gyanaecology" target="_blank" rel="noopener">Department of Obstetrics &amp; Gyanaecology</a><br /> <a href="index.php?page=department-of-medicine" target="_blank" rel="noopener">Department of Medicine</a><br /> <a href="index.php?page=department-of-medical-microbiology" target="_blank" rel="noopener">Department of Medical Microbiology</a><br /> <a href="index.php?page=department-of-opthalmology" target="_blank" rel="noopener">Department of Opthalmology</a><br /> <a href="index.php?page=department-of-orthopaedics" target="_blank" rel="noopener">Department of Orthopaedics</a><br /> <a href="index.php?page=department-of-otolaryngology" target="_blank" rel="noopener">Department of Otolaryngology</a><br /> <a href="index.php?page=department-of-paediatrics" target="_blank" rel="noopener">Department of Paediatrics</a><br /> <a href="index.php?page=department-of-pathology" target="_blank" rel="noopener">Department of Pathology</a><br /> <a href="index.php?page=department-of-pharmacology" target="_blank" rel="noopener">Department of Pharmacology</a><br /> <a href="index.php?page=department-of-physiology" target="_blank" rel="noopener">Department of Physiology</a><br /> <a href="index.php?page=department-of-psychiatry" target="_blank" rel="noopener">Department of Psychiatry</a><br /> <a href="index.php?page=department-of-pulmonary-medicine" target="_blank" rel="noopener">Department of Pulmonary Medicine</a><br /> <a href="index.php?page=department-of-radiology-radiotherapy-radiodiagnosis-radiation-medicine" target="_blank" rel="noopener">Department of Radiology, Radiotherapy, Radiodiagnosis &amp; Radiation Medicine</a><br /> <a href="index.php?page=department-of-surgery" target="_blank" rel="noopener">Department of Surgery</a></div>
+</div>
+</div>
+</div>
+<div class="container-fluid toggle_div collapse" id="importantlinks">
+
+<div class="row sides-72 spacer-40">
+                <div class="col-lg-4 imp-pad animate2 slideIn2">
+                    <h5>Students Corner</h5>
+                    <div class="spacer-16">
+                        <a href="index.php?page=academic-resources-previous-year-question-papers-etc.">Academic Resources (Previous Year Question Papers etc.)</span></a><br>
+                        <a href="index.php?page=Hostels-at-University-of-Delhi">Hostels</a><br>
+                        <a href="index.php?page=">Student Activities -<a href="http://nss.du.ac.in/" target="_blank"> NSS</a>, <a href="http://ncc.du.ac.in/" target="_blank">NCC & Sports</a> <br>
+                        <a 
+ <a href="https://www.bhimupi.org.in/" target="_blank">BHIM App&nbsp;<span class="fa fa-link"></a> <br>
+<a href="https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf" target="_blank"><strong>Directions under sub-section (6) of section 70B of the Information
+Technology Act, 2000&nbsp;<span class="fa fa-link"></strong></a><br>
+<a href="https://www.education.gov.in/hi/ict-initiatives" target="_blank">ICT Initiatives of MHRD&nbsp;<span class="fa fa-link"></a><br>
+<!--<a href="uploads/21112019_swachhbhart.PDF" target="_blank">Regarding book “Swachh Bharat: Sankalp se Siddhi"</a><br>
+ <a href="uploads/evm-vvpat.pdf">EVM-VVPAT - Election Commission of India</a><br>
+ <a href="uploads/Press%20Release%20-%20DU%20announces%20launch%20of%20Project%20Management%20System.pdf">Project Management Launched on 15 August, 2018</a> <br>-->
+<a href="uploads/10072019_Refund.pdf">Application form for Refund of Fees</a><br>
+</div>
+  <a href="http://alumni.du.ac.in" target="_blank"><h5>Alumni</h5></a>
+<!--<a href="http://alumni.du.ac.in/Ezine7/pdf/Alumni.pdf" target="_blank">Alumni - Related Forms&nbsp;<span class="fa fa-link"></a><br>
+<a href="uploads/alumni/30062015_Alumni_Exam.pdf" target="_blank">Alumni - Related ExamBranch Service Windows</a><br>
+ <a href="http://alumni.du.ac.in/pdfs/need/How%20to%20get%20your%20original%20degree.pdf" target="_blank">How to get your original degree&nbsp;<span class="fa fa-link"></a><br><br>
+ <a href="http://connecttoindia.du.ac.in/" target="_blank">Connect to India Programme&nbsp;<span class="fa fa-link"></a> <br>-->
+
+
+
+</div>
+
+
+
+                       
+                
+                </div>
+                <span class="divider imp-pad"></span>
+               <!-- <div class="col-lg-6 imp-pad imp-link-top animate4 slideIn4">
+                    <h5>Special Links</h5>
+                    <div class="spacer-16">
+                        <a href="http://fee.du.ac.in/index.php/site/login" target="_blank">Miscellaneous Online Fee Payment&nbsp;<span class="fa fa-link"></a><br>
+                        <a href="http://sol.du.ac.in/du_ug_registration/" target="_blank">Online Fee Payment - For Under-Graduate Second and Third Year Students&nbsp;<span class="fa fa-link"></a><br>  
+                        	<a href="http://fee.du.ac.in/index.php/site/login" target="_blank"> For
+                            Post-Graduate Second and Third Year Students&nbsp;<span class="fa fa-link"></a><br>
+                        <a href="http://app.du.ac.in/degree_conv/index.php/predegree/personal-details/login" target="_blank">Online Application to obtain Degree in Advance of Annual Convocation&nbsp;<span class="fa fa-link"></a> <br>
+                        <!--<a href="index.php?page=student-teacher-corner" target="_blank">Student Teacher Corner</a> <br>-->
+                    <!--</div>
+                </div>-->
+            </div>
+</div>
+
+
+<!-- content blocks -->
+
+<!-- end content blocks -->
+
+<!--middle content testing-->
+<div class="container-fluid bg-light-grey spacer-40" id="generic">
+
+    <div class="sides-60">
+
+        <!-- Left Sidebar -->
+        <div class="row mt-3 flex main-wrapper">
+            <div class="col no-spacer section-A">
+                <div class="col-lg-12 no-spacer depart fixed-top">
+                    <div class="card card-depart min-height">
+                        <div class="card-body depart">
+                            <h6 class="card-title">Related Pages</h6>
+                            <div class="scrollable-list">
+                                <ul class="list-unstyled generic genside">
+                                    <li>
+
+
+
+
+
+<li class="menudepth0 first_child"><a class="" href="https://www.du.ac.in/index.php?page=faculties"><span class="">Faculties</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=departments-2"><span class="">Departments</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=centersinstitutes"><span class="">Centers/Institutes</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=campus-of-open-learning"><span class="">Campus of Open Learning</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=colleges-at-du"><span class="">Colleges</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=syllabi"><span class="">Courses</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=delhi-school-of-economics"><span class="">Delhi School of Economics</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=international-relations"><span class="">International Relations</span></a></li><li class="menudepth0"><a class="" href="http://fsr.du.ac.in/"><span class="">International Students</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=virtual-learning"><span class="">Virtual Learning</span></a></li><li class="menudepth0"><a class="" href="https://www.du.ac.in/index.php?page=non-collegiate-womens-education-board"><span class="">Non-Collegiate Women&#39;s Education Board</span></a></li><li class="menudepth0 menuactive"><a class=" menuactive" href="https://www.du.ac.in/index.php?page=academic-calendar"><span class="">Academic Calendar</span></a></li><li class="menudepth0 last_child"><a class="" href="https://www.du.ac.in/index.php?page=adjunct-faculty-members"><span class="">Adjunct Faculty Members</span></a></li>
+
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <div class="row generic card-buttons">
+                                <a href="index.php?page=colleges-at-du" class="btn btn-outline-primary generic light-purple">View Colleges</a>
+                                <a href="index.php?page=departments-at-du" class="btn btn-outline-primary generic fill light-purple">View
+                                    rel="noopener">Academic Calendar for the first year of Undergraduate courses for the academic year 2022-23</a></li>
+<li><a href="uploads/new-web/24082022_Accademic_Calender.pdf" target="_blank" rel="noopener">Academic Calendar for the IIIrd &amp; IVth semester of the relevant undergraduate courses for the academic year 2022-23</a></li>
+<li><a href="uploads/new-web/28062022_AC.pdf" target="_blank" rel="noopener">Academic calendar for the Vth, VIth, VII &amp; VIIIth semester of the relevant undergraduate and postgraduate courses for the academic year 2022-23</a></li>
+<li><a href="uploads/new-web/13122021_Holiday-List-2022.pdf" target="_blank" rel="noopener">List of Holidays 2022</a></li>
+<li><a href="index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=2914&amp;cntnt01returnid=219">Academic Calendar for First year of Undergraduate Courses for the Academic Year 2021 - 22</a></li>
+<li><a href="index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=2915&amp;cntnt01returnid=219">Academic Calendar for First year of Postgraduate Courses for the Academic Year 2021 - 22</a></li>
+</ul>
+<hr />
+<p><strong>Archives</strong></p>
+<ul>
+<li><a href="uploads/new-web/10082021_Academic-Calender.pdf" target="_blank" rel="noopener">Amended Academic Calendar for the first year of Undergraduate and Postgraduate Courses for the Academic Year 2020-21</a></li>
+<li><a href="uploads/new-web/09082021_Academic-Calender.pdf" target="_blank" rel="noopener">Academic Calendar for III &amp; IV semesters of relevant Undergraduate and Postgraduate Courses for the Academic Year 2021 - 22</a></li>
+<li><a href="uploads/new-web/notifications-2021/24062021_academic-calender.pdf" target="_blank" rel="noopener">Academic Calendar for V, VI, VII &amp; VIII semesters of Undergraduate and Postgraduate Courses for the Academic Year 2021 - 22</a></li>
+<li><a title="Academic Calendar 2020-2021" href="uploads/new-web/22062021_Academic-Calendar.pdf" target="_blank" rel="noopener">Revised Academic Calendar for the first year of Undergraduate and Postgraduate Courses for the Academic Year 2020-21</a></li>
+<li><a title="Academic Calendar 2020-2021" href="uploads/Academic Calendar/13102020_academic calendar.pdf" target="_blank" rel="noopener">Academic Calendar for the first year of Undergraduate and Postgraduate Courses for the Academic Year 2020-21</a></li>
+<li><a href="uploads/Academic Calendar/04092020_AcademicCalender.pdf" target="_blank" rel="noopener">Academic Calendar for Under-Graduate and Post-Graduate courses III/V/VII Semester for the Academic Year 2020-2021</a></li>
+<li><a href="uploads/Academic%20Calendar/12112020_List of Holidays 2021.pdf" target="_blank" rel="noopener">List of Holidays 2021</a></li>
+</ul>
+                        </div>
+
+                        <div class="footnote generic mt-4 pt-2 mb-2">
+                            Last Updated: Tuesday 20-Dec-22 12:38:57 IST
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Sidebar -->
+            <div class="col no-spacer section-C">
+                <div class="col-lg-12 no-spacer depart">
+                    <div class="card card-depart min-height">
+                        <div class="card-body depart">
+                            <h6 class="card-title">Spotlight</h6>
+                            <div class="scrollable-list">
+                                <ul class="list-unstyled generic">
+                                    <li><li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8777&amp;cntnt01returnid=219" title="Hon&#039;ble Prime Minister&#039;s Address on the occasion of National Technology Day on 11 May 2023 at 11:00 AM">Hon&#039;ble Prime Minister&#039;s Address on the occasion of National Technology Day on 11 May 2023 at 11:00 AM</a><br>
+    <div class="news-date">posted on May 10, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6439&amp;cntnt01returnid=219" title="Notice regarding Screening status of various departments for the post of Associate Professor (Advt. No. Estab.IV/292/2022 dated 07.01.2022)">Notice regarding Screening status of various departments for the post of Associate Professor (Advt. No. Estab.IV/292/2022 dated 07.01.2022)</a><br>
+    <div class="news-date">posted on May 10, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6438&amp;cntnt01returnid=219" title="Notice regarding Screening status of various departments for the post of Professor (Advt. No. Estab.IV/293/2022 dated 07.01.2022)">Notice regarding Screening status of various departments for the post of Professor (Advt. No. Estab.IV/293/2022 dated 07.01.2022)</a><br>
+    <div class="news-date">posted on May 10, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8722&amp;cntnt01returnid=219" title="Vice Chancellor&#039;s Internship Scheme - Summer Internship 2023">Vice Chancellor&#039;s Internship Scheme - Summer Internship 2023</a><br>
+    <div class="news-date">posted on May 10, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8763&amp;cntnt01returnid=219" title="Centenary Cricket Match (May 12, 2023)">Centenary Cricket Match (May 12, 2023)</a><br>
+    <div class="news-date">posted on May  9, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8733&amp;cntnt01returnid=219" title="Notification - Implementation of UGC Guidelines for Optimal Utilization of Resources Available in Central Universities/ Higher Educational Institutions (HEIs)">Notification - Implementation of UGC Guidelines for Optimal Utilization of Resources Available in Central Universities/ Higher Educational Institutions (HEIs)</a><br>
+    <div class="news-date">posted on May  4, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8641&amp;cntnt01returnid=219" title="Magic Show by Jadugar Samrat Shankar (May 3, 2023)">Magic Show by Jadugar Samrat Shankar (May 3, 2023)</a><br>
+    <div class="news-date">posted on May  3, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=3806&amp;cntnt01returnid=219" title="Notice regarding appointment against the post of Assistant Professors, Screening status of various departments for the post of Assistant Professor (Advt. No. Estab.IV/291/2021 dated 20.09.2021)">Notice regarding appointment against the post of Assistant Professors, Screening status of various departments for the post of Assistant Professor (Advt. No. Estab.IV/291/2021 dated 20.09.2021)</a><br>
+    <div class="news-date">posted on May  3, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8678&amp;cntnt01returnid=219" title="Regarding - Final Intimation for Bank Details Updation for 2022-23 UG refunds">Regarding - Final Intimation for Bank Details Updation for 2022-23 UG refunds</a><br>
+    <div class="news-date">posted on Apr 27, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8677&amp;cntnt01returnid=219" title="Regarding - Final Intimation for Bank Details Updation for 2022-23 PG refunds">Regarding - Final Intimation for Bank Details Updation for 2022-23 PG refunds</a><br>
+    <div class="news-date">posted on Apr 27, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8657&amp;cntnt01returnid=219" title="Advertisement for the post of Community Manager and Relationship Manager -  University of Delhi Foundation">Advertisement for the post of Community Manager and Relationship Manager -  University of Delhi Foundation</a><br>
+    <div class="news-date">posted on Apr 24, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6436&amp;cntnt01returnid=219" title="NEP: UGCF 2022 Syllabi - Syllabi of Courses of UGCF 2022 &amp; related Notifications">NEP: UGCF 2022 Syllabi - Syllabi of Courses of UGCF 2022 &amp; related Notifications</a><br>
+    <div class="news-date">posted on Apr 24, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8605&amp;cntnt01returnid=219" title="Advisory to the Colleges/Departments for holding the programmes/events/fests">Advisory to the Colleges/Departments for holding the programmes/events/fests</a><br>
+    <div class="news-date">posted on Apr 17, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8598&amp;cntnt01returnid=219" title="Job Mela 2023: Placement and Internship Fair - Dean Students&#039; Welfare Office">Job Mela 2023: Placement and Internship Fair - Dean Students&#039; Welfare Office</a><br>
+    <div class="news-date">posted on Apr 15, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8600&amp;cntnt01returnid=219" title="Job Mela 2023: Counselling Session - Dean Students&#039; Welfare Office (17th April,2023)">Job Mela 2023: Counselling Session - Dean Students&#039; Welfare Office (17th April,2023)</a><br>
+    <div class="news-date">posted on Apr 15, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8460&amp;cntnt01returnid=219" title="Faculty Development Programme on Digital Training Skills - Delhi University Computer Centre (April 17 - 19, 2023)">Faculty Development Programme on Digital Training Skills - Delhi University Computer Centre (April 17 - 19, 2023)</a><br>
+    <div class="news-date">posted on Apr 12, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8581&amp;cntnt01returnid=219" title="Inviting Ideas to celebrate 100th episode of Mann Ki Baat">Inviting Ideas to celebrate 100th episode of Mann Ki Baat</a><br>
+    <div class="news-date">posted on Apr 12, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8182&amp;cntnt01returnid=219" title="Notification to invite online applications for allotment of University accommodation">Notification to invite online applications for allotment of University accommodation</a><br>
+    <div class="news-date">posted on Apr  6, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8533&amp;cntnt01returnid=219" title="Form for Identity Card for Medical Treatment in approved Hospitals for Contractual Staff">Form for Identity Card for Medical Treatment in approved Hospitals for Contractual Staff</a><br>
+    <div class="news-date">posted on Apr  5, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8520&amp;cntnt01returnid=219" title="Notice regarding extension of last date for submission of form for Contractual employees working in University and its Colleges appeared in written test conducted by NTA">Notice regarding extension of last date for submission of form for Contractual employees working in University and its Colleges appeared in written test conducted by NTA</a><br>
+    <div class="news-date">posted on Apr  5, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8503&amp;cntnt01returnid=219" title="Job Mela 2023: Placement and Internship Fair - Dean Students&#039; Welfare Office">Job Mela 2023: Placement and Internship Fair - Dean Students&#039; Welfare Office</a><br>
+    <div class="news-date">posted on Mar 31, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8099&amp;cntnt01returnid=219" title="CPGC Election - 2023">CPGC Election - 2023</a><br>
+    <div class="news-date">posted on Mar 29, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8267&amp;cntnt01returnid=219" title="90th Annual Meeting of the University Court">90th Annual Meeting of the University Court</a><br>
+    <div class="news-date">posted on Mar 29, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8476&amp;cntnt01returnid=219" title="Academic Bank of Credits (ABC)">Academic Bank of Credits (ABC)</a><br>
+    <div class="news-date">posted on Mar 27, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8438&amp;cntnt01returnid=219" title="Press Release - Post-Graduate Admissions 2023-2024">Press Release - Post-Graduate Admissions 2023-2024</a><br>
+    <div class="news-date">posted on Mar 22, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7667&amp;cntnt01returnid=219" title="Financial Support Scheme (FSS) - Office of Dean Students&#039; Welfare">Financial Support Scheme (FSS) - Office of Dean Students&#039; Welfare</a><br>
+    <div class="news-date">posted on Mar 14, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8348&amp;cntnt01returnid=219" title="Public Notice for Revised exam date of DU Recruitment 2021">Public Notice for Revised exam date of DU Recruitment 2021</a><br>
+    <div class="news-date">posted on Mar 10, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8143&amp;cntnt01returnid=219" title="Circular - Holi Festival">Circular - Holi Festival</a><br>
+    <div class="news-date">posted on Mar  6, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7990&amp;cntnt01returnid=219" title="65th Annual Flower Show">65th Annual Flower Show</a><br>
+    <div class="news-date">posted on Mar  2, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8279&amp;cntnt01returnid=219" title="Press Release - Safety and Security arrangements on Holi Festival in University of Delhi campuses">Press Release - Safety and Security arrangements on Holi Festival in University of Delhi campuses</a><br>
+    <div class="news-date">posted on Mar  2, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7568&amp;cntnt01returnid=219" title="99th Annual Convocation">99th Annual Convocation</a><br>
+    <div class="news-date">posted on Feb 25, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8201&amp;cntnt01returnid=219" title="Job Mela 2023 - Central Placement Cell, Dean Students Welfare Office (March 21-22, 2023)">Job Mela 2023 - Central Placement Cell, Dean Students Welfare Office (March 21-22, 2023)</a><br>
+    <div class="news-date">posted on Feb 23, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8187&amp;cntnt01returnid=219" title="Notification - Employee Identity Card">Notification - Employee Identity Card</a><br>
+    <div class="news-date">posted on Feb 22, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8106&amp;cntnt01returnid=219" title="Notification for Addition to Ordinances VIII (VIII-F) of the Ordinances of the University">Notification for Addition to Ordinances VIII (VIII-F) of the Ordinances of the University</a><br>
+    <div class="news-date">posted on Feb 15, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7358&amp;cntnt01returnid=219" title="AC / EC Election 2023">AC / EC Election 2023</a><br>
+    <div class="news-date">posted on Feb 15, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7350&amp;cntnt01returnid=219" title="Election of ten representatives for membership of the Court by Alumni Association">Election of ten representatives for membership of the Court by Alumni Association</a><br>
+    <div class="news-date">posted on Feb 15, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8083&amp;cntnt01returnid=219" title="Press Release - Announcement of eligibility requirement for UG admissions through CUET 2023">Press Release - Announcement of eligibility requirement for UG admissions through CUET 2023</a><br>
+    <div class="news-date">posted on Feb 13, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7000&amp;cntnt01returnid=219" title="Advisory on World Heart Day 2022 : Cardiovascular Health for Everyone">Advisory on World Heart Day 2022 : Cardiovascular Health for Everyone</a><br>
+    <div class="news-date">posted on Feb 13, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8063&amp;cntnt01returnid=219" title="Startup opportunities at Design Innovation Centre - University of Delhi (Last Date of Application - March 13, 2023)">Startup opportunities at Design Innovation Centre - University of Delhi (Last Date of Application - March 13, 2023)</a><br>
+    <div class="news-date">posted on Feb 13, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=8036&amp;cntnt01returnid=219" title="Notice regarding Refund of Fee 2022-23">Notice regarding Refund of Fee 2022-23</a><br>
+    <div class="news-date">posted on Feb  9, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7986&amp;cntnt01returnid=219" title="Issuing Parking Stickers for the year 2023-2024">Issuing Parking Stickers for the year 2023-2024</a><br>
+    <div class="news-date">posted on Feb  7, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7940&amp;cntnt01returnid=219" title="Refresher Course in Japanese Language for Japanese Language Teachers">Refresher Course in Japanese Language for Japanese Language Teachers</a><br>
+    <div class="news-date">posted on Feb  2, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7859&amp;cntnt01returnid=219" title="Notification for Committee to enforce discipline and maintain law &amp; order in the University">Notification for Committee to enforce discipline and maintain law &amp; order in the University</a><br>
+    <div class="news-date">posted on Jan 28, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7735&amp;cntnt01returnid=219" title="Pariksha Pe Charcha 2023 (January 27, 2023)">Pariksha Pe Charcha 2023 (January 27, 2023)</a><br>
+    <div class="news-date">posted on Jan 27, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7790&amp;cntnt01returnid=219" title="74th Republic Day Celebration">74th Republic Day Celebration</a><br>
+    <div class="news-date">posted on Jan 26, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7821&amp;cntnt01returnid=219" title="Workshop on Skill Enhancement Programme for Non-teaching Staff - Shyam Lal College (Evening)">Workshop on Skill Enhancement Programme for Non-teaching Staff - Shyam Lal College (Evening)</a><br>
+    <div class="news-date">posted on Jan 25, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7714&amp;cntnt01returnid=219" title="Internship Opportunities: Cyber Physical Systems Lab - Institute of Informatics &amp; Communication">Internship Opportunities: Cyber Physical Systems Lab - Institute of Informatics &amp; Communication</a><br>
+    <div class="news-date">posted on Jan 17, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6910&amp;cntnt01returnid=219" title="Advisory : World Health Day 2021 - W.U.S. Health Centre">Advisory : World Health Day 2021 - W.U.S. Health Centre</a><br>
+    <div class="news-date">posted on Jan 13, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7649&amp;cntnt01returnid=219" title="Live webcast - 26th National Youth Festival 2023 to be inaugurated by Hon&#039;ble PM at 4:00 PM on January 12, 2023">Live webcast - 26th National Youth Festival 2023 to be inaugurated by Hon&#039;ble PM at 4:00 PM on January 12, 2023</a><br>
+    <div class="news-date">posted on Jan 12, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7650&amp;cntnt01returnid=219" title="Training on Cloud Foundation (Last Date of Registration is January 31, 2023)">Training on Cloud Foundation (Last Date of Registration is January 31, 2023)</a><br>
+    <div class="news-date">posted on Jan 10, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7588&amp;cntnt01returnid=219" title="Vice-Chancellor&#039;s interview in Jansatta dated January 8, 2023">Vice-Chancellor&#039;s interview in Jansatta dated January 8, 2023</a><br>
+    <div class="news-date">posted on Jan  8, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6864&amp;cntnt01returnid=219" title="Offline Training Program for Lab &amp; Technical Staff (January 16-20, 2023)">Offline Training Program for Lab &amp; Technical Staff (January 16-20, 2023)</a><br>
+    <div class="news-date">posted on Jan  5, 2023</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7508&amp;cntnt01returnid=219" title="Notification Regarding empanelment of Hospitals/Diagnostic Centres/AMAs, updated List-A, List-B, List-C, List-D &amp; list of Authorized Medical Attendant (AMAs) for 2 years w.e.f. 1-1-2023 to 31-12-2024">Notification Regarding empanelment of Hospitals/Diagnostic Centres/AMAs, updated List-A, List-B, List-C, List-D &amp; list of Authorized Medical Attendant (AMAs) for 2 years w.e.f. 1-1-2023 to 31-12-2024</a><br>
+    <div class="news-date">posted on Dec 30, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7496&amp;cntnt01returnid=219" title="Notification for CUET 2023-24">Notification for CUET 2023-24</a><br>
+    <div class="news-date">posted on Dec 30, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7466&amp;cntnt01returnid=219" title="Advertisement Inviting Applications for the post of Incubation Operations Manager Udhmodya Foundation at the University of Delhi">Advertisement Inviting Applications for the post of Incubation Operations Manager Udhmodya Foundation at the University of Delhi</a><br>
+    <div class="news-date">posted on Dec 28, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7464&amp;cntnt01returnid=219" title="Press Release - Schedule of Special Spot Admission Round - II">Press Release - Schedule of Special Spot Admission Round - II</a><br>
+    <div class="news-date">posted on Dec 28, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7460&amp;cntnt01returnid=219" title="Electoral Roll for the Election of AC/EC-2023">Electoral Roll for the Election of AC/EC-2023</a><br>
+    <div class="news-date">posted on Dec 27, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7434&amp;cntnt01returnid=219" title="वीर बाल दिवस - स्कूल ऑफ़ ओपन लर्निंग">वीर बाल दिवस - स्कूल ऑफ़ ओपन लर्निंग</a><br>
+    <div class="news-date">posted on Dec 26, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7425&amp;cntnt01returnid=219" title="Notification regarding Limited Departmental Examination">Notification regarding Limited Departmental Examination</a><br>
+    <div class="news-date">posted on Dec 23, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6550&amp;cntnt01returnid=219" title="Three days Training Program on Information Technology Skills for Group B &amp; C Officials">Three days Training Program on Information Technology Skills for Group B &amp; C Officials</a><br>
+    <div class="news-date">posted on Dec 23, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7394&amp;cntnt01returnid=219" title="Press Release - Last Special Drive Cut-Off List 2022-2023 for NCWEB">Press Release - Last Special Drive Cut-Off List 2022-2023 for NCWEB</a><br>
+    <div class="news-date">posted on Dec 20, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7356&amp;cntnt01returnid=219" title="Notice - Last date of admissions for all Undergraduate and Postgraduate Programmes for the Academic Year 2022-2023">Notice - Last date of admissions for all Undergraduate and Postgraduate Programmes for the Academic Year 2022-2023</a><br>
+    <div class="news-date">posted on Dec 16, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7354&amp;cntnt01returnid=219" title="Press Release - Schedule of Special Spot Admission Round - UG Admissions 2022">Press Release - Schedule of Special Spot Admission Round - UG Admissions 2022</a><br>
+    <div class="news-date">posted on Dec 16, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6806&amp;cntnt01returnid=219" title="Vice Chancellor Internship Scheme - Dean Students&#039; Welfare Office">Vice Chancellor Internship Scheme - Dean Students&#039; Welfare Office</a><br>
+    <div class="news-date">posted on Dec 14, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7282&amp;cntnt01returnid=219" title="Pariksha Pe Charcha by Hon&#039;ble Prime Minister">Pariksha Pe Charcha by Hon&#039;ble Prime Minister</a><br>
+    <div class="news-date">posted on Dec 13, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7222&amp;cntnt01returnid=219" title="Press Release - SPECIAL DRIVE FOR SC/ST/OBC CUT-OFF LIST &ndash; 2022-2023 for NCWEB">Press Release - SPECIAL DRIVE FOR SC/ST/OBC CUT-OFF LIST – 2022-2023 for NCWEB</a><br>
+    <div class="news-date">posted on Dec  6, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7173&amp;cntnt01returnid=219" title="Cyber Security Awareness">Cyber Security Awareness</a><br>
+    <div class="news-date">posted on Dec  1, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7152&amp;cntnt01returnid=219" title="5th Cut-Off - 2022 - NCWEB">5th Cut-Off - 2022 - NCWEB</a><br>
+    <div class="news-date">posted on Nov 29, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7137&amp;cntnt01returnid=219" title="Press Release - Undergraduate admissions portal opened for SPOT ROUND II">Press Release - Undergraduate admissions portal opened for SPOT ROUND II</a><br>
+    <div class="news-date">posted on Nov 28, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7115&amp;cntnt01returnid=219" title="Press Release - Schedule of Post-graduate Entrance / Merit based admissions 2022-2023">Press Release - Schedule of Post-graduate Entrance / Merit based admissions 2022-2023</a><br>
+    <div class="news-date">posted on Nov 28, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7105&amp;cntnt01returnid=219" title="Press Release - SPOT ROUND - II - University of Delhi">Press Release - SPOT ROUND - II - University of Delhi</a><br>
+    <div class="news-date">posted on Nov 25, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7109&amp;cntnt01returnid=219" title="Academic Calendar for the first year of Postgraduate courses for the academic year 2022-23">Academic Calendar for the first year of Postgraduate courses for the academic year 2022-23</a><br>
+    <div class="news-date">posted on Nov 25, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=7013&amp;cntnt01returnid=219" title="Professor Yogesh Singh, Vice-chancellor, University of Delhi | IDEA EXCHANGE | THE INDIAN EXPRESS, MONDAY, NOVEMBER 21, 2022">Professor Yogesh Singh, Vice-chancellor, University of Delhi | IDEA EXCHANGE | THE INDIAN EXPRESS, MONDAY, NOVEMBER 21, 2022</a><br>
+    <div class="news-date">posted on Nov 21, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6978&amp;cntnt01returnid=219" title="Notification regarding Teacher-Student Ratio in all the Programmes / Courses">Notification regarding Teacher-Student Ratio in all the Programmes / Courses</a><br>
+    <div class="news-date">posted on Nov 16, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6962&amp;cntnt01returnid=219" title="Notification - Extension of last date for Inter College Migration till 18.11.2022">Notification - Extension of last date for Inter College Migration till 18.11.2022</a><br>
+    <div class="news-date">posted on Nov 15, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6778&amp;cntnt01returnid=219" title="Environmental Release of Genetically Engineered Mustard Hybrid (DMH-11) Developed at University of Delhi Approved">Environmental Release of Genetically Engineered Mustard Hybrid (DMH-11) Developed at University of Delhi Approved</a><br>
+    <div class="news-date">posted on Nov  1, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6772&amp;cntnt01returnid=219" title="Notice - Creation of Cluster Colleges (Knowledge Networks)">Notice - Creation of Cluster Colleges (Knowledge Networks)</a><br>
+    <div class="news-date">posted on Oct 31, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6731&amp;cntnt01returnid=219" title="Advisory for all Colleges/ Departments from Proctor office for Events/Fests etc.">Advisory for all Colleges/ Departments from Proctor office for Events/Fests etc.</a><br>
+    <div class="news-date">posted on Oct 27, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6710&amp;cntnt01returnid=219" title="Press Release - Extension of last date of payment of fee for CSAS Round &ndash; I">Press Release - Extension of last date of payment of fee for CSAS Round – I</a><br>
+    <div class="news-date">posted on Oct 23, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6707&amp;cntnt01returnid=219" title="Initiatives taken by the University of Delhi to curb the menace of Ragging">Initiatives taken by the University of Delhi to curb the menace of Ragging</a><br>
+    <div class="news-date">posted on Oct 22, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6546&amp;cntnt01returnid=219" title="Circular and guidelines regarding Anti-Ragging">Circular and guidelines regarding Anti-Ragging</a><br>
+    <div class="news-date">posted on Oct 21, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6688&amp;cntnt01returnid=219" title="Cyber Swachhta Pakhwada - Bot Removal Tool">Cyber Swachhta Pakhwada - Bot Removal Tool</a><br>
+    <div class="news-date">posted on Oct 20, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6562&amp;cntnt01returnid=219" title="Admission 2022-2023 at Department of Distance and Continuing Education (DDCE), SOL/COL">Admission 2022-2023 at Department of Distance and Continuing Education (DDCE), SOL/COL</a><br>
+    <div class="news-date">posted on Oct 13, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6539&amp;cntnt01returnid=219" title="Notification - Date extension for Inter College Migration">Notification - Date extension for Inter College Migration</a><br>
+    <div class="news-date">posted on Oct 11, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6297&amp;cntnt01returnid=219" title="The Last date of Inter College Migration for the Academic session 2022-2023 is extended till 30.09.2022">The Last date of Inter College Migration for the Academic session 2022-2023 is extended till 30.09.2022</a><br>
+    <div class="news-date">posted on Sep 23, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=6117&amp;cntnt01returnid=219" title="Regarding Admission Fee refund of Under Graduate Admissions 2021-22">Regarding Admission Fee refund of Under Graduate Admissions 2021-22</a><br>
+    <div class="news-date">posted on Sep  7, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=5855&amp;cntnt01returnid=219" title="Election of two subscribers each (GPF and CPF) for membership of the Provident Fund Committee">Election of two subscribers each (GPF and CPF) for membership of the Provident Fund Committee</a><br>
+    <div class="news-date">posted on Aug  8, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=5820&amp;cntnt01returnid=219" title="Competence Enhancement Scheme (CES) - The University of Delhi is launching a new Scheme called the Competence Enhancement Scheme (CES) in its centennial year to make higher education more accessible, as envisaged under the New Education Policy 2020">Competence Enhancement Scheme (CES) - The University of Delhi is launching a new Scheme called the Competence Enhancement Scheme (CES) in its centennial year to make higher education more accessible, as envisaged under the New Education Policy 2020</a><br>
+    <div class="news-date">posted on Aug  5, 2022</div></li>
+
+<li class="ma_news"><a href="https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&amp;cntnt01articleid=5618&amp;cntnt01returnid=219" title="CUET 2022 - विषयों की अधिक संख्या को देखते हुए प्रत्येक आवेदक के लिए बनाई गई है विशिष्ट डेटशीट: कुलपति">CUET 2022 - विषयों की अधिक संख्या को देखते हुए प्रत्येक आवेदक के लिए बनाई गई है विशिष्ट डेटशीट: कुलपति</a><br>
+    <div class="news-date">posted on Jul 12, 2022</div></li>
+
+</li>
+                                  
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12 no-spacer depart mt-3 fixed-top">
+                    <div class="card card-depart">
+                        <div class="card-body depart">
+                            <h6 class="card-title">Can't find what you're looking for?</h6>
+                            <div class="cta-card-text">
+                                Try our extensive database of FAQs or check our knowledgebase to know more...
+                            </div>
+                            <div class="row generic card-buttons">
+                                <a 
